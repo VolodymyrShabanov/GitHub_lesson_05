@@ -1,5 +1,8 @@
 open site https://bellard.org/jslinux/vm.html?url=alpine-x86.cfg&mem=192
+подключиться к серверу ssh edu@ssh.ab88.pro
 enter login
 enter password
 mkdir mykhailo_harmash_dec15
 nano mykhailo_harmash_dec15/hello.txt
+написать произвольный текст в файле
+сохранить.
