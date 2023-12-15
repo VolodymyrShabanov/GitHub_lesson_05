@@ -1,0 +1,9 @@
+Last login: Fri Dec 15 20:36:07 2023 from 79.236.54.218
+edu@cv3354335:~$ ls
+andrei_bakhtinov_dec15  dmitrii_sagaiko_dec15  Maxim_Aidin     mihail_nedioglo_dec15  mykhailo_harmash_dec15  t_ilienko          zumrad_rizamatova
+dmitrii_sagaiko         Maksym_Aidin_dec15     MihailNedioglo  mykhailo_harmash       stepan_nesterenko       vladimir_shabanov
+edu@cv3354335:~$ mkdir vladimir_shabanov_dec15
+edu@cv3354335:~$ nano vladimir_shabanov_dec15/hello.txt
+edu@cv3354335:~$ cat vladimir_shabanov_dec15/hello.txt
+Hello from Vladimir!
+edu@cv3354335:~$
