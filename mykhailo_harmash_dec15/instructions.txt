@@ -1,0 +1,5 @@
+open site https://bellard.org/jslinux/vm.html?url=alpine-x86.cfg&mem=192
+enter login
+enter password
+mkdir mykhailo_harmash_dec15
+nano mykhailo_harmash_dec15/hello.txt
