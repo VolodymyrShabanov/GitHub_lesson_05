@@ -1,0 +1,15 @@
+edu@cv3354335:~$ ls
+andrei_bakhtinov_dec15  Maksym_Aidin_dec15     mykhailo_harmash        vladimir_shabanov
+aysel_sahin_dec15       Maxim_Aidin            mykhailo_harmash_dec15  vladimir_shabanov_dec15
+dmitrii_sagaiko         MihailNedioglo         stepan_nesterenko       zumrad_rizamatova
+dmitrii_sagaiko_dec15   mihail_nedioglo_dec15  t_ilienko
+edu@cv3354335:~$ rm -rf vladimir_shabanov
+edu@cv3354335:~$ ls
+andrei_bakhtinov_dec15  mihail_nedioglo_dec15   stepan_nesterenko        zumrad_rizamatova
+aysel_sahin_dec15       mykhailo_harmash        t_ilienko
+MihailNedioglo          mykhailo_harmash_dec15  vladimir_shabanov_dec15
+edu@cv3354335:~$ rm -rf vladimir_shabanov_dec15/
+edu@cv3354335:~$ ls
+andrei_bakhtinov_dec15  mihail_nedioglo_dec15  mykhailo_harmash_dec15  t_ilienko
+aysel_sahin_dec15       mykhailo_harmash       stepan_nesterenko       zumrad_rizamatova
+edu@cv3354335:~$
