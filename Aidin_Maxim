@@ -1,4 +1,12 @@
+------------------------------
+Task1
+------------------------------
 ssh ssh.ab88.pro
 cd Maksym_Aidin_dec15
 mkdir Maksym_Aidin_dec15
 vim hello.txt
+
+------------------------------
+Task2
+------------------------------
+rm -rf *Aidin*
